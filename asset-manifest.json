@@ -9,13 +9,13 @@
     "static/js/3.bb243056.chunk.js": "https://ziggahunhow.github.io/kumaza_client/static/js/3.bb243056.chunk.js",
     "static/js/3.bb243056.chunk.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/3.bb243056.chunk.js.map",
     "main.css": "https://ziggahunhow.github.io/kumaza_client/static/css/main.72ce2d8f.chunk.css",
-    "main.js": "https://ziggahunhow.github.io/kumaza_client/static/js/main.38c1985f.chunk.js",
-    "main.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/main.38c1985f.chunk.js.map",
+    "main.js": "https://ziggahunhow.github.io/kumaza_client/static/js/main.e74bb879.chunk.js",
+    "main.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/main.e74bb879.chunk.js.map",
     "runtime-main.js": "https://ziggahunhow.github.io/kumaza_client/static/js/runtime-main.182273e9.js",
     "runtime-main.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/runtime-main.182273e9.js.map",
     "static/css/6.62e7949a.chunk.css": "https://ziggahunhow.github.io/kumaza_client/static/css/6.62e7949a.chunk.css",
-    "static/js/6.271bbdb9.chunk.js": "https://ziggahunhow.github.io/kumaza_client/static/js/6.271bbdb9.chunk.js",
-    "static/js/6.271bbdb9.chunk.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/6.271bbdb9.chunk.js.map",
+    "static/js/6.52119d79.chunk.js": "https://ziggahunhow.github.io/kumaza_client/static/js/6.52119d79.chunk.js",
+    "static/js/6.52119d79.chunk.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/6.52119d79.chunk.js.map",
     "static/js/7.83ed54fb.chunk.js": "https://ziggahunhow.github.io/kumaza_client/static/js/7.83ed54fb.chunk.js",
     "static/js/7.83ed54fb.chunk.js.map": "https://ziggahunhow.github.io/kumaza_client/static/js/7.83ed54fb.chunk.js.map",
     "static/js/8.aa1f08b2.chunk.js": "https://ziggahunhow.github.io/kumaza_client/static/js/8.aa1f08b2.chunk.js",
@@ -50,7 +50,7 @@
     "static/js/15.0431b2dd.chunk.js.LICENSE.txt": "https://ziggahunhow.github.io/kumaza_client/static/js/15.0431b2dd.chunk.js.LICENSE.txt",
     "static/js/17.657881fe.chunk.js.LICENSE.txt": "https://ziggahunhow.github.io/kumaza_client/static/js/17.657881fe.chunk.js.LICENSE.txt",
     "static/js/2.a9a85fb7.chunk.js.LICENSE.txt": "https://ziggahunhow.github.io/kumaza_client/static/js/2.a9a85fb7.chunk.js.LICENSE.txt",
-    "static/js/6.271bbdb9.chunk.js.LICENSE.txt": "https://ziggahunhow.github.io/kumaza_client/static/js/6.271bbdb9.chunk.js.LICENSE.txt",
+    "static/js/6.52119d79.chunk.js.LICENSE.txt": "https://ziggahunhow.github.io/kumaza_client/static/js/6.52119d79.chunk.js.LICENSE.txt",
     "static/media/cipher.7966d716.svg": "https://ziggahunhow.github.io/kumaza_client/static/media/cipher.7966d716.svg",
     "static/media/coinbase.b2b87a67.svg": "https://ziggahunhow.github.io/kumaza_client/static/media/coinbase.b2b87a67.svg",
     "static/media/dapper.58e9ae5c.png": "https://ziggahunhow.github.io/kumaza_client/static/media/dapper.58e9ae5c.png",
@@ -78,8 +78,8 @@
   "entrypoints": [
     "static/js/runtime-main.182273e9.js",
     "static/css/6.62e7949a.chunk.css",
-    "static/js/6.271bbdb9.chunk.js",
+    "static/js/6.52119d79.chunk.js",
     "static/css/main.72ce2d8f.chunk.css",
-    "static/js/main.38c1985f.chunk.js"
+    "static/js/main.e74bb879.chunk.js"
   ]
 }
